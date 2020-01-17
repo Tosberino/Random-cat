@@ -15,6 +15,6 @@ Generates a cat   \|    Ģenerē kaķi
 
 # Changelog \| Izmaiņas
 
-  17.01.20 - Added tail and whiskers | Pievienoju asti un ūsas
+  17.01.20 - Added tail and whiskers \| Pievienoju asti un ūsas
 
   15.01.20 - Started the project  \|  Sāku šo projektu

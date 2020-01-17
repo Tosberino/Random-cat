@@ -18,9 +18,10 @@ int main(){
   //VVVVVVVVVV
   cout << "\n\t^-------^" << endl;
   int x = rand() % (sizeof(eL)/sizeof(*eL));
-  cout << "\t| " << eL[x] << "   " << eR[x] << " |" << endl;
-  cout << "\t|   " << d[rand() % (sizeof(d)/sizeof(*d))] <<"   |" << endl;
-  cout << "\t|   " << m[rand() % (sizeof(m)/sizeof(*m))] <<"  |" << endl;
-  cout << "\t|       |" << endl;
-  cout << "\t|_o___o_|\n" << endl;
+  cout << "\t| " << eL[x] << "   " << eR[x] << " |  _" << endl;
+  cout << "\t>   " << d[rand() % (sizeof(d)/sizeof(*d))] <<"   < / /" << endl;
+  cout << "\t|   " << m[rand() % (sizeof(m)/sizeof(*m))] <<"  |/ /" << endl;
+  cout << "\t|       | /" << endl;
+  cout << "\t|_o___o_|/\n" << endl;
 }
+

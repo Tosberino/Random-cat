@@ -9,9 +9,7 @@ Example \| Piemērs
 	|   W   |/ /
 	|       | /
 	|_o___o_|/
-
 ```
-
 # English
 
   This program generates a cat.

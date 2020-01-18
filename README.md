@@ -1,5 +1,16 @@
 # Random-cat
-Generates a cat   \|    Ģenerē kaķi  
+  Generates a cat   \|    Ģenerē kaķi  
+
+Example \| Piemērs
+```
+	/\-----/\
+	| u   u |  _
+	>   Y   < / /
+	|   W   |/ /
+	|       | /
+	|_o___o_|/
+
+```
 
 # English
 

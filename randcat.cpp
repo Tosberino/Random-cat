@@ -16,7 +16,7 @@ int main(){
 
   //Draw the cat  | Uzzīmēt kaķi
   //VVVVVVVVVV
-  cout << "\n\t^-------^" << endl;
+  cout << "\n\t/\\-----/\\" << endl;
   int x = rand() % (sizeof(eL)/sizeof(*eL));
   cout << "\t| " << eL[x] << "   " << eR[x] << " |  _" << endl;
   cout << "\t>   " << d[rand() % (sizeof(d)/sizeof(*d))] <<"   < / /" << endl;

@@ -15,6 +15,8 @@ Generates a cat   \|    Ģenerē kaķi
 
 # Changelog \| Izmaiņas
 
+  18.01.20 - Added more eyes, mouths and noses. Also added .gitignore \| Pievienoju vairāk acis, degunus un mutes. Arī pievienoju .gitignore.
+
   17.01.20 - Added tail and whiskers \| Pievienoju asti un ūsas
 
   15.01.20 - Started the project  \|  Sāku šo projektu

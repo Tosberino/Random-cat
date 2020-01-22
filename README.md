@@ -24,6 +24,8 @@ Example \| Piemērs
 
 # Changelog \| Izmaiņas
 
+  22.01.20 - Added 1 nose \| Pievienoju 1 degunu
+
   18.01.20 - Added more eyes, mouths and noses. Also added .gitignore. Changed the ears \| Pievienoju vairāk acis, degunus un mutes. Arī pievienoju .gitignore. Nomainiju ausis.
 
   17.01.20 - Added tail and whiskers \| Pievienoju asti un ūsas

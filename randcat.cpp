@@ -9,7 +9,7 @@ int main(){
   string eL[] = {">","o","O","0","U","u","@","^","X","$","\bII","\b==","\b--","\b-=","~","\b{}","\b[]"}; //Left eye  | Kreisā acs
   string eR[] = {"<","o","O","0","U","u","@","^","X","$","\bII","\b==","\b--","\b=-","~","\b{}","\b[]"}; //Right eye | Labā acs
 
-  string d[] = {"U","u","Y","o","."}; //Nose  |  Deguns
+  string d[] = {"U","u","Y","o",".","+"}; //Nose  |  Deguns
   string m[] = {"W ","^ ","w ","\bUU ","X ","V "}; //Mouth  | Mute
 
   srand(time(NULL));
